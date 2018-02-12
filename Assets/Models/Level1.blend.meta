@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: c36fbcbb6c8bd8840a25423925059d27
+timeCreated: 1508798859
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Hall_OR-T1
+    100002: hallyway
+    100004: //RootNode
+    100006: Observation_Room
+    100008: stairs
+    100010: stairs_001
+    100012: stairs_002
+    100014: Start_Room
+    100016: Start_Room_001
+    100018: Start_Room_002
+    100020: Test_1
+    100022: Test_1_Bridge
+    100024: Test_1_Bridge_001
+    100026: Test_1_Bridge_002
+    100028: Test_1_Bridge_003
+    100030: Test_1_Bridge_11
+    100032: Test_1_Bridge_12
+    100034: Test_1_Bridge_004
+    100036: Hall_T1-T2
+    100038: Test_2
+    100040: Test_2_Control
+    100042: Test_2_Hall
+    100044: Hall_T2-T3
+    100046: Hall_T3-T4_
+    100048: Test_2_NightVision
+    100050: Test_3
+    100052: Test_1_Bridge_005
+    100054: Test_1_Bridge_006
+    100056: Test_1_Bridge_007
+    100058: Test_1_Bridge_008
+    100060: Test_1_Bridge_009
+    100062: Start_Door
+    400000: Hall_OR-T1
+    400002: hallyway
+    400004: //RootNode
+    400006: Observation_Room
+    400008: stairs
+    400010: stairs_001
+    400012: stairs_002
+    400014: Start_Room
+    400016: Start_Room_001
+    400018: Start_Room_002
+    400020: Test_1
+    400022: Test_1_Bridge
+    400024: Test_1_Bridge_001
+    400026: Test_1_Bridge_002
+    400028: Test_1_Bridge_003
+    400030: Test_1_Bridge_11
+    400032: Test_1_Bridge_12
+    400034: Test_1_Bridge_004
+    400036: Hall_T1-T2
+    400038: Test_2
+    400040: Test_2_Control
+    400042: Test_2_Hall
+    400044: Hall_T2-T3
+    400046: Hall_T3-T4_
+    400048: Test_2_NightVision
+    400050: Test_3
+    400052: Test_1_Bridge_005
+    400054: Test_1_Bridge_006
+    400056: Test_1_Bridge_007
+    400058: Test_1_Bridge_008
+    400060: Test_1_Bridge_009
+    400062: Start_Door
+    2300000: Hall_OR-T1
+    2300002: hallyway
+    2300004: Observation_Room
+    2300006: stairs
+    2300008: stairs_001
+    2300010: stairs_002
+    2300012: Start_Room
+    2300014: Start_Room_001
+    2300016: Start_Room_002
+    2300018: Test_1
+    2300020: Test_1_Bridge
+    2300022: Test_1_Bridge_001
+    2300024: Test_1_Bridge_002
+    2300026: Test_1_Bridge_003
+    2300028: Test_1_Bridge_11
+    2300030: Test_1_Bridge_12
+    2300032: Test_1_Bridge_004
+    2300034: Hall_T1-T2
+    2300036: Test_2
+    2300038: Test_2_Control
+    2300040: Test_2_Hall
+    2300042: Hall_T2-T3
+    2300044: Hall_T3-T4_
+    2300046: Test_2_NightVision
+    2300048: Test_3
+    2300050: Test_1_Bridge_005
+    2300052: Test_1_Bridge_006
+    2300054: Test_1_Bridge_007
+    2300056: Test_1_Bridge_008
+    2300058: Test_1_Bridge_009
+    2300060: Start_Door
+    3300000: Hall_OR-T1
+    3300002: hallyway
+    3300004: Observation_Room
+    3300006: stairs
+    3300008: stairs_001
+    3300010: stairs_002
+    3300012: Start_Room
+    3300014: Start_Room_001
+    3300016: Start_Room_002
+    3300018: Test_1
+    3300020: Test_1_Bridge
+    3300022: Test_1_Bridge_001
+    3300024: Test_1_Bridge_002
+    3300026: Test_1_Bridge_003
+    3300028: Test_1_Bridge_11
+    3300030: Test_1_Bridge_12
+    3300032: Test_1_Bridge_004
+    3300034: Hall_T1-T2
+    3300036: Test_2
+    3300038: Test_2_Control
+    3300040: Test_2_Hall
+    3300042: Hall_T2-T3
+    3300044: Hall_T3-T4_
+    3300046: Test_2_NightVision
+    3300048: Test_3
+    3300050: Test_1_Bridge_005
+    3300052: Test_1_Bridge_006
+    3300054: Test_1_Bridge_007
+    3300056: Test_1_Bridge_008
+    3300058: Test_1_Bridge_009
+    3300060: Start_Door
+    4300000: Test_1_Bridge
+    4300002: Hall_OR-T1
+    4300004: Test_1
+    4300006: Start_Room_002
+    4300008: stairs_002
+    4300010: Start_Room_001
+    4300012: stairs_001
+    4300014: hallyway
+    4300016: Start_Room
+    4300018: stairs
+    4300020: Observation_Room
+    4300022: Test_1_Bridge_12
+    4300024: Test_1_Bridge_11
+    4300026: Test_1_Bridge_003
+    4300028: Test_1_Bridge_002
+    4300030: Test_1_Bridge_001
+    4300032: Test_1_Bridge_004
+    4300034: Test_2
+    4300036: Test_2_Hall
+    4300038: Test_2_Control
+    4300040: Hall_T1-T2
+    4300042: Hall_T3-T4_
+    4300044: Test_3
+    4300046: Hall_T2-T3
+    4300048: Test_2_NightVision
+    4300050: Test_1_Bridge_009
+    4300052: Test_1_Bridge_008
+    4300054: Test_1_Bridge_007
+    4300056: Test_1_Bridge_006
+    4300058: Test_1_Bridge_005
+    4300060: Start_Door
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
